@@ -7,6 +7,8 @@
 ### 🧰 My Tech Stack
 - Python
 - Java
+- SQL
+- Data Analytics
 - Pandas
 - NumPy
 - Deep Learning
