@@ -14,3 +14,11 @@
 - Deep Learning
 - Data Science
 - DSA
+# 📊 GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GargiBhardwaj16&show_icons=true&locale=en" alt="GargiBhardwaj16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GargiBhardwaj16&" alt="GargiBhardwaj16" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=GargiBhardwaj16&icon=5&color=3)](https://visitcount.itsvg.in)
